@@ -7,9 +7,6 @@
 
 
 
-
-
-
 /**** Escreva o código acima ☝️******/
 
 //Não altere as linhas abaixo
